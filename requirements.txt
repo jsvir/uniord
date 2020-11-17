@@ -1,0 +1,8 @@
+h5py
+torch
+torchvision
+numpy
+pytorch-lightning>=1.0
+opencv-python
+sklearn
+PIL
