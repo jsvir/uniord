@@ -1,4 +1,5 @@
 class Config:
+    dataset = "Adience"
     root_dir = 'data'
     data_folds = 5
     data_splits = 1

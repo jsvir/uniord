@@ -1,4 +1,5 @@
 class Config:
+    dataset = "DR"
     create_h5f_dataset = False
     h5f_dataset_path = 'dr_dataset.task_{}.split_{}.hdf'
     use_h5f_dataset = False
